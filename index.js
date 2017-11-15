@@ -30,18 +30,3 @@ function currentLine(katzDeliLine) {
     return statement;
   }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
